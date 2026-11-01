@@ -39,6 +39,7 @@ I work at the intersection of computer science and creative media: software, AI 
 
 ## Featured projects
 
+- **Harvest Lane 3D** - An original 3D farming and market tycoon built with Three.js and TypeScript. Grow crops, raise animals, serve customers, complete missions and endless contracts, and build up to the Grand Hotel. Play it free in the browser: https://yashdashrath18.github.io/harvest-lane/3d/ Code: https://github.com/yashdashrath18/harvest-lane
 - **Student Management System** - A C++ console application using object-oriented programming, a vector of students, file persistence, CRUD operations, CGPA validation, and average CGPA calculation. See: https://github.com/yashdashrath18/Student-Management-System-
 - **CPP-Programs** - Practice programs in C++
 - **Arduino laser security system** - A DIY electronics project built with Arduino
@@ -50,5 +51,9 @@ Learning, collaboration, internships, and opportunities that challenge me to gro
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/yash-dashrath
-- Instagram: @shotbyyassh
+- Yash MediaWorks on LinkedIn: https://www.linkedin.com/company/yashmediaworks/
+- Instagram: [@shotbyyassh](https://www.instagram.com/shotbyyassh/)
+- X: [@YashDashrath](https://x.com/yashdashrath)
+- Reddit: [u/ashnotyash](https://www.reddit.com/user/ashnotyash/)
+- Email: yashissocial@gmail.com
 - GitHub: https://github.com/yashdashrath18
