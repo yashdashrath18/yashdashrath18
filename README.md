@@ -55,5 +55,5 @@ Learning, collaboration, internships, and opportunities that challenge me to gro
 - Instagram: [@shotbyyassh](https://www.instagram.com/shotbyyassh/)
 - X: [@YashDashrath](https://x.com/yashdashrath)
 - Reddit: [u/ashnotyash](https://www.reddit.com/user/ashnotyash/)
-- Email: yashissocial@gmail.com
+- Email: yashdashrath18@gmail.com
 - GitHub: https://github.com/yashdashrath18
