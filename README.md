@@ -40,6 +40,16 @@ I work at the intersection of computer science and creative media: software, AI 
 ## Featured projects
 
 - **Harvest Lane 3D** - An original 3D farming and market tycoon built with Three.js and TypeScript. Grow crops, raise animals, serve customers, complete missions and endless contracts, and build up to the Grand Hotel. Play it free in the browser: https://yashdashrath18.github.io/harvest-lane/3d/ Code: https://github.com/yashdashrath18/harvest-lane
+- **Thick** - A satisfying ASMR calculator. Every key press answers with a synthesized click and a distinct haptic. Showcase: https://github.com/yashdashrath18/thick
+- **Blobbo** - A calm, minimal notes app with text, checklist and sketch notes on dotted paper. Showcase: https://github.com/yashdashrath18/blobbo
+- **AnonAdda** - A pseudonymous student community. Your identity is a handle you choose, never your real name. Showcase: https://github.com/yashdashrath18/anonadda
+- **StudyLoot** - A study resource exchange where sharing earns Aura Points that unlock resources shared by others. Showcase: https://github.com/yashdashrath18/studyloot
+- **Gathri** - A college-only marketplace where students buy and sell what campus life cycles through. Showcase: https://github.com/yashdashrath18/gathri
+- **Torch** - A torch app where the screen itself is the light, brightness from 5 to 100 percent. Showcase: https://github.com/yashdashrath18/torch
+- **Alarm** - An alarm app designed around waking up gently instead of being shouted awake. Showcase: https://github.com/yashdashrath18/alarm
+- **Snake** - A phone-first Snake game with four modes: Classic, Wrap, Timed, and Zen. Showcase: https://github.com/yashdashrath18/snake
+- **Tic-Tac-Toe** - The small game taken seriously, on 3x3 and 4x4 boards. Showcase: https://github.com/yashdashrath18/tic-tac-toe
+- **Minesweeper** - A phone-first Minesweeper with the real rules done properly: safe first tap, flood reveal, chord tapping and flag mode. Showcase: https://github.com/yashdashrath18/minesweeper
 - **Student Management System** - A C++ console application using object-oriented programming, a vector of students, file persistence, CRUD operations, CGPA validation, and average CGPA calculation. See: https://github.com/yashdashrath18/Student-Management-System-
 - **CPP-Programs** - Practice programs in C++
 - **Arduino laser security system** - A DIY electronics project built with Arduino
